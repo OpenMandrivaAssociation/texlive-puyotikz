@@ -1,6 +1,6 @@
 Name:		texlive-puyotikz
 Version:	57254
-Release:	1
+Release:	2
 Summary:	Quickly typeset board states of Puyo Puyo games
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/puyotikz
