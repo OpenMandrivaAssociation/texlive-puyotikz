@@ -3,7 +3,7 @@ Version:	57254
 Release:	2
 Summary:	Quickly typeset board states of Puyo Puyo games
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/puyotikz
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/puyotikz
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/puyotikz.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/puyotikz.doc.r%{version}.tar.xz
